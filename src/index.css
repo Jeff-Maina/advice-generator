@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: #202733;
+    overflow-y: hidden;
+}
+
+body::-webkit-scrollbar {
+  background-color: #202733;
+}
+
+
+
